@@ -87,6 +87,8 @@ npm run build
 The built files will be in the `dist` directory, ready for deployment.
 
 ##  Screenshots
+<img width="1912" height="1037" alt="image" src="https://github.com/user-attachments/assets/09c827c6-d4ff-4399-8e16-7f8164c87bba" />
+
 
 ### Home Page
 Modern hero section with financial dashboard imagery and clear call-to-action buttons.
